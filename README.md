@@ -6,8 +6,8 @@ Linea Ordinals is a web application designed to interact with the Linea blockcha
 
 ## Features
 
-- **Upload Ordinals**: Users can upload text and images as ordinals to the Polkadot blockchain.
-- **View Ordinals**: Users can retrieve and view uploaded ordinals using the associated transaction ID.
+- **Ordinal Generator**: Users can create ordinal tokens to Liena Bloackchain.
+- **Ordinals Marketplace**: Users can buy and sell ordinals on the marketplace.
 
 ## Installation
 
@@ -19,7 +19,7 @@ Before you begin, ensure you have [Node.js](https://nodejs.org/) installed on yo
    ```
 2. Navigate to the project directory:
    ```
-   cd dot-ordinals
+   cd linea-ordinals
    ```
 3. Install the dependencies:
    ```
@@ -50,11 +50,6 @@ This command will create a `build` directory with the production-ready files.
 
 This project is licensed under the [MIT License](LICENSE,md).
 
-## Acknowledgments
-
-- [Polkadot.js API](https://polkadot.js.org/api/) for providing the tools to interact with the Polkadot blockchain.
-- All contributors who spend their time to improve this project.
-- [@BillLaboon](https://twitter.com/BillLaboon) for the inspiration.
 
 ## Contact
 
