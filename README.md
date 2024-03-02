@@ -4,6 +4,11 @@ Try it live: https://linea-ordinals.web.app/
 
 Linea Ordinals is a web application designed to interact with the Linea blockchain. It allows users to upload data as ordinals and view them using a transaction ID. The application showcases how to utilize the Polkadot.js API to work with blockchain transactions and encodings.
 
+## Contracts
+- **Ordinal Factory**: https://lineascan.build/address/0xa96A596A197426312A5C6878908C5E81C8e41024#code
+- **Ordinal Marketplace**: https://lineascan.build/address/0x61d9433668582AA7F51475eC9A03C985d9A701DE#code
+- **Ordinal**: https://lineascan.build/address/0x3adCE61C284e585291DDf71d766394c1b7543d07
+
 ## Features
 
 - **Ordinal Generator**: Users can create ordinal tokens to Liena Bloackchain.
