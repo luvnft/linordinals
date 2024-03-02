@@ -1,10 +1,8 @@
-# Dot Ordinals
+# Linea Ordinals
 
-Try it live: https://niklabh.github.io/dotordinals/
+Try it live: https://linea-ordinals.web.app/
 
-Inspired from @BillLaboon command line ordinals https://twitter.com/BillLaboon/status/1724779175121490132 this project is aimed to create a dapp around it.
-
-Dot Ordinals is a web application designed to interact with the Polkadot blockchain. It allows users to upload data as ordinals and view them using a transaction ID. The application showcases how to utilize the Polkadot.js API to work with blockchain transactions and encodings.
+Linea Ordinals is a web application designed to interact with the Linea blockchain. It allows users to upload data as ordinals and view them using a transaction ID. The application showcases how to utilize the Polkadot.js API to work with blockchain transactions and encodings.
 
 ## Features
 
@@ -17,7 +15,7 @@ Before you begin, ensure you have [Node.js](https://nodejs.org/) installed on yo
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/dot-ordinals.git
+   git clone git@github.com:niklabh/linea-ordinals.git
    ```
 2. Navigate to the project directory:
    ```

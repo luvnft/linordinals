@@ -2,9 +2,5 @@
   "linea": {
     "ordinalFactory": "0xa96A596A197426312A5C6878908C5E81C8e41024",
     "ordinalMarketplace": "0x61d9433668582AA7F51475eC9A03C985d9A701DE"
-  },
-  "zkatana": {
-    "ordinalFactory": "0x329613Bcb74fAB5672e0dB4C87f9BB1140E7618A",
-    "ordinalMarketplace": "0x3e5f97988d59D3056Db01D100E1FA5FaeF153115"
   }
 }

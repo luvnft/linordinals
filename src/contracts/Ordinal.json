@@ -448,6 +448,19 @@
 				"type": "function"
 			},
 			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "amount",
+						"type": "uint256"
+					}
+				],
+				"name": "owner_mint",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
 				"inputs": [],
 				"name": "protocol",
 				"outputs": [
@@ -692,11 +705,11 @@
 			]
 		},
 		"contracts/Ordinal.sol": {
-			"keccak256": "0xab8c2d328a72d61dc5e8a2a69cf29349c2c436ad66e8c5198ab141c27dbcd524",
+			"keccak256": "0x642f4ce7129ff19c9bac8db29596db24de1c4d7c0141d228efef3c4200c87ea2",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://693d21d53479580619e2fcbd2e77dea8b6ad998189e89d117088682280b3821b",
-				"dweb:/ipfs/QmdiKNpVHTRJe9UnRSsMv74jjwdGfRpiQ5ANMVDJ14x8Z6"
+				"bzz-raw://a9bf460192982069a3653677c1d7b8b85f70257ab58f2a5377fd938a7446cc6a",
+				"dweb:/ipfs/QmYFntgLkW7jtn2ytxyxJczAiLk4xBcCGeJt525wRb3uEq"
 			]
 		}
 	},

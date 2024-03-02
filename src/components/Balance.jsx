@@ -100,7 +100,7 @@ const Balance = () => {
 
         tokens.push({
           id: i + 1,
-          address,
+          address: tokenAddress,
           balance,
           ...token,
         });
