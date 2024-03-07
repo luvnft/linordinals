@@ -167,7 +167,7 @@ const Sidebar = ({ setSidedrawer, sidedrawer }) => {
         <>
           <h1 className='flex items-center gap-x-2 text-pink font-semibold text-lg px-4 py-4'>
             <img className='w-8 h-8 rounded-md' src='/logo.png' alt='logo' />{' '}
-            ZKORDS
+            ZKORDS.
           </h1>
           <Menu
             theme='dark'
@@ -210,7 +210,7 @@ const Sidebar = ({ setSidedrawer, sidedrawer }) => {
           <>
             <h1 className='flex items-center gap-x-2 text-pink font-semibold text-lg px-4 py-4'>
               <img className='w-8 h-8 rounded-md' src='/logo.png' alt='logo' />{' '}
-              ZKORDS
+              ZKORDS.
             </h1>
             <Menu
               theme='dark'
