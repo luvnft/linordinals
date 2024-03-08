@@ -24,19 +24,19 @@ const items = [
   },
   getItem(
     <Link className='text-base font-medium' to='/create-token'>
-      Create Token
+      Create Meme Coin
     </Link>,
     'create-token'
   ),
   getItem(
     <Link className='text-base font-medium' to='/mint-token'>
-      Mint Token
+      Mint Meme Coin
     </Link>,
     'mint-token'
   ),
   getItem(
     <Link className='text-base font-medium' to='/transfer-token'>
-      Transfer Token
+      Transfer Meme Coin
     </Link>,
     'transfer-token'
   ),
@@ -45,7 +45,7 @@ const items = [
   },
   getItem(
     <Link className='text-base font-medium' to='/balance'>
-      My Token Balances
+      Meme Coin Balances
     </Link>,
     'balance'
   ),
@@ -60,7 +60,7 @@ const items = [
   ),
   getItem(
     <Link className='text-base font-medium' to='/list-token'>
-      List Token
+      List Meme Coin
     </Link>,
     'list-token'
   ),
