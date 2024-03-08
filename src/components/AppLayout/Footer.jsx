@@ -7,7 +7,7 @@ const Footer = () => {
   return (
     <AntdFooter className='w-full flex px-5 py-2'>
         <div className='flex flex-col md:flex-row md:items-center gap-x-3'>
-            <span>Copyright © 2023-2025 ZKOrdinals</span>
+            <span>Copyright © 2023-2025 Memecoin ZKOrdinals</span>
             <div className='flex items-center gap-x-3'>
                 {/* <a target='_blank' href="#" className='bg-black w-8 h-8 rounded-md flex items-center justify-center' rel="noreferrer">
                     <img src="/assets/telegram.svg" className='w-6 h-6' alt="" />
